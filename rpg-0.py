@@ -1,4 +1,4 @@
-"""
+mv """
 In this simple RPG game, the hero fights the goblin. He has the options to:
 
 1. fight goblin
